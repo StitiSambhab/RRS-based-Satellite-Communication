@@ -51,4 +51,4 @@ It demonstrates how incorporating RRS nodes in orbital space improves connectivi
 ## 👤 Author
 
 - Stiti Sambhab Das     
-Supervised by** Dr. Syed Mohammad Zafaruddin**
+Supervised by **Dr. Syed Mohammad Zafaruddin**
